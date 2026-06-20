@@ -1,5 +1,5 @@
 ## Hi there 👋
- My self Divyanshi Gurjar 
+ My self Divyanshi Gurjar and I am a Ai software developer 
 <!--
 **divyanshigurjar25-del/divyanshigurjar25-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
